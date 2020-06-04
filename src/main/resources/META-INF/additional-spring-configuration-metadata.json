@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "file.temp.location",
+      "type": "java.lang.String",
+      "description": "The transfer file location."
+    }
+  ] }
